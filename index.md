@@ -2,7 +2,7 @@
 
 The tutoring site that isn't shite.
 
-View my CV here: [Jacob Knight CV](/Jacob_Knight_CV.pdf)
+View my CV here: [Jacob Knight CV](/Tutoring_CV.pdf)
 
-<img src="headshot.PNG" alt="Photo" width="200"/>
+<img src="headshot.PNG" align="right" alt="Photo" width="200"/>
 
