@@ -1,16 +1,18 @@
 ## Welcome to Jacob Knight Tuition
 
 <html>
-    <style>
-    .parallax {
-      background-color: #000;
-      height: 500px;
-      background-attachment: fixed;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-    }
-   </style>
+    <head>
+        <style>
+        .parallax {
+          background-color: #000;
+          height: 500px;
+          background-attachment: fixed;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+       </style>
+    </head>
   <div class="container parallax">
     <div class="row">
       <div class="col-sm">
