@@ -1,5 +1,5 @@
 ## Welcome to Jacob Knight Tuition
-
+<!DOCTYPE html>
 <html>
     <head>
         <style>
